@@ -1,0 +1,40 @@
+
+body{
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	
+}
+
+
+
+#wrapper{
+	width:auto;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+#wetter{
+	font-family: "Century Gohtic", CenturyGothic;
+	color: white;
+}
+
+header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center}
+	
+	
+section{
+	width: 50%;
+	float: left;
+}
+aside{
+	width: 50%;
+	float: right;
+	
+	}
+
+footer{
+	height: 50px;
+	clear: both;
+	background-color: black;
+}
