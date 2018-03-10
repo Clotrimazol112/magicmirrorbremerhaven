@@ -1,0 +1,2 @@
+# magicmirrorbremerhaven
+Magic Mirror
